@@ -4,7 +4,6 @@ end
 
 def my_hash
   {:Nathan => "Indian"}
-
 end
 
 def pioneer
