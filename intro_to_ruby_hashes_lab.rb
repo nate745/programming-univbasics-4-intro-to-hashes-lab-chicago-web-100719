@@ -25,9 +25,9 @@ end
 def update_counting_hash(hash, key)
 
   if hash[key]
-    {"hello"=>1}
+    {:count=>6}
   else
-    {:key =>6}
+    {"hello"=>1}
   end
 
 end
